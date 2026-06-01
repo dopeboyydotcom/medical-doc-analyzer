@@ -1,4 +1,5 @@
 # Medical Document Analyzer
+**Live app:** https://medical-doc-analyzer-clms4v3mbswhh9byfrm9aj.streamlit.app
 
 An intelligent web app that helps turn messy clinical PDFs into clear, structured medical data.
 
